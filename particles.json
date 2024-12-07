@@ -11,7 +11,7 @@
       "value": "#ffffff"
     },
     "shape": {
-      "type": "star",
+      "type": "circle",
       "stroke": {
         "width": 0
       }
@@ -48,7 +48,7 @@
     "events": {
       "onhover": {
         "enable": true,
-        "mode": "grab"
+        "mode": "repulse"
       },
       "onclick": {
         "enable": true,
